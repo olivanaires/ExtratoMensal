@@ -1,0 +1,63 @@
+
+/* Class = "UILabel"; text = "DataConta"; ObjectID = "6eq-JN-4Kc"; */
+"6eq-JN-4Kc.text" = "DataConta";
+
+/* Class = "UINavigationItem"; title = "Informações da Conta"; ObjectID = "9UM-YV-Nju"; */
+"9UM-YV-Nju.title" = "Informações da Conta";
+
+/* Class = "UILabel"; text = "Valor"; ObjectID = "Cy3-sc-ZLa"; */
+"Cy3-sc-ZLa.text" = "Valor";
+
+/* Class = "UILabel"; text = "Parcela"; ObjectID = "Fc2-75-PvU"; */
+"Fc2-75-PvU.text" = "Parcela";
+
+/* Class = "UIButton"; normalTitle = "Cancelar"; ObjectID = "P51-qU-xSm"; */
+"P51-qU-xSm.normalTitle" = "Cancelar";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "RpM-lC-WIn"; */
+"RpM-lC-WIn.text" = "Label";
+
+/* Class = "UILabel"; text = "Descricao"; ObjectID = "UKs-mA-lUT"; */
+"UKs-mA-lUT.text" = "Descricao";
+
+/* Class = "UILabel"; text = "Valor"; ObjectID = "VUJ-ZL-B7w"; */
+"VUJ-ZL-B7w.text" = "Valor";
+
+/* Class = "UILabel"; text = "Valor"; ObjectID = "W7Z-gM-4eu"; */
+"W7Z-gM-4eu.text" = "Valor";
+
+/* Class = "UILabel"; text = "Parcelas"; ObjectID = "Ym0-vF-JcH"; */
+"Ym0-vF-JcH.text" = "Parcelas";
+
+/* Class = "UIButton"; normalTitle = "Cancelar"; ObjectID = "aTn-G3-VoU"; */
+"aTn-G3-VoU.normalTitle" = "Cancelar";
+
+/* Class = "UILabel"; text = "Data"; ObjectID = "ciU-cP-C5m"; */
+"ciU-cP-C5m.text" = "Data";
+
+/* Class = "UIButton"; normalTitle = "Salvar"; ObjectID = "dGl-TU-IvF"; */
+"dGl-TU-IvF.normalTitle" = "Salvar";
+
+/* Class = "UITextField"; accessibilityIdentifier = "textFieldValor"; ObjectID = "fGR-7w-66n"; */
+"fGR-7w-66n.accessibilityIdentifier" = "textFieldValor";
+
+/* Class = "UITextField"; placeholder = "Valor da Parcela"; ObjectID = "fGR-7w-66n"; */
+"fGR-7w-66n.placeholder" = "Valor da Parcela";
+
+/* Class = "UIButton"; normalTitle = "Salvar"; ObjectID = "fgJ-1R-MH5"; */
+"fgJ-1R-MH5.normalTitle" = "Salvar";
+
+/* Class = "UINavigationItem"; title = "Histórico de Contas"; ObjectID = "jsF-Kj-Hos"; */
+"jsF-Kj-Hos.title" = "Histórico de Contas";
+
+/* Class = "UINavigationItem"; title = "Extratos"; ObjectID = "t84-64-eLV"; */
+"t84-64-eLV.title" = "Extratos";
+
+/* Class = "UITextField"; placeholder = "Descrição"; ObjectID = "u3c-UM-k2j"; */
+"u3c-UM-k2j.placeholder" = "Descrição";
+
+/* Class = "UILabel"; text = "Descricao"; ObjectID = "yqJ-MD-cq5"; */
+"yqJ-MD-cq5.text" = "Descricao";
+
+/* Class = "UILabel"; text = "Mes"; ObjectID = "yuC-cH-Vno"; */
+"yuC-cH-Vno.text" = "Mes";

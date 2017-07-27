@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="9057" systemVersion="15B42" minimumToolsVersion="Xcode 7.0">
+    <entity name="Conta" syncable="YES">
+        <attribute name="chave" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="data" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="descricao" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="numParcela" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="parcela" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="principal" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="tipo" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="valor" optional="YES" attributeType="Double" defaultValueString="0.0" syncable="YES"/>
+        <relationship name="extrato" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Extrato" inverseName="contas" inverseEntity="Extrato" syncable="YES"/>
+    </entity>
+    <entity name="Extrato" syncable="YES">
+        <attribute name="ano" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="chave" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="mes" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="contas" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Conta" inverseName="extrato" inverseEntity="Conta" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Conta" positionX="-38" positionY="-162" width="128" height="178"/>
+        <element name="Extrato" positionX="-270" positionY="-58" width="128" height="103"/>
+    </elements>
+</model>
